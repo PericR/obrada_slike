@@ -1,3 +1,5 @@
+/*implementation of sobel filter for image manipulation*/
+
 #pragma once
 #include <math.h>
 
