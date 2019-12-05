@@ -1,3 +1,5 @@
+/*Algorithm for histogram equalization*/
+
 void calculate_histogram(float* histogram, float** input_image, int row_start, int row_end, int col_start, int col_end) {	
 	
 	for (int i = row_start; i < row_end; i++) {
